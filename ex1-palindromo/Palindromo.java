@@ -1,5 +1,3 @@
-import java.util.*;
-
 public class Palindromo {
   public static boolean compareStrings(String palavra1, String palavra2) {
     if(palavra1.length() != palavra2.length()) {
